@@ -4,6 +4,8 @@ Uma ferramenta de linha de comando (CLI) com uma interface de usuário de termin
 
 ## Visualização
 
+https://github.com/user-attachments/assets/f3c457a3-4d25-4dbb-afbe-6a869526f629
+
 ## Recursos Principais
 
 -   **Detecção Automática de Imagens**: Encontra todos os arquivos `.jpg`, `.jpeg`, `.png` e `.webp` no diretório atual.
@@ -23,7 +25,7 @@ Para que a ferramenta funcione corretamente, você precisa ter instalados em seu
 
 ### Opção 1: Baixar o Binário Pré-compilado (Recomendado)
 
-1.  Acesse a [página de **Releases** do projeto no GitHub](https://github.com/seu-usuario/seu-repositorio/releases).
+1.  Acesse a [página de **Releases** do projeto no GitHub](https://github.com/AndreXime/EditPhotoGoCLI/releases).
 2.  Procure pela versão mais recente e baixe o arquivo compatível com o seu sistema operacional.
 3.  **(Para macOS e Linux)** Abra o terminal, navegue até a pasta onde está o arquivo e dê permissão de execução para o binário:
     ```bash
