@@ -1,4 +1,4 @@
-module EditPhotoGoCli
+module github.com/AndreXime/EditPhotoGoCLI
 
 go 1.24.3
 
