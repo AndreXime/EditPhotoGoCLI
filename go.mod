@@ -1,4 +1,4 @@
-module github.com/AndreXime/EditPhotoGoCLI
+module github.com/AndreXime/pixel-press
 
 go 1.24.3
 
